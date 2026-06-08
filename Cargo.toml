@@ -1,0 +1,6 @@
+[package]
+name = "si-renyi-entropy"
+version = "0.1.0"
+edition = "2021"
+description = "Rényi entropy spectrum for fleet diversity and monoculture detection"
+license = "MIT"
